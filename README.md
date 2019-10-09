@@ -5,39 +5,46 @@ Un banco del país, siguiendo las tendencias de otros países, está planeando l
 <img src="https://i.ibb.co/dWzmSmV/Banqui-Inicio.png" width="800">
 </p>
 
-## Los Objetivos Iniciales de la empresa son:
-
+### Los Objetivos Iniciales de la empresa son:
 - Aumentar la satisfacción del cliente con los canales digitales para el 2020 y el 2024 app con el mejor servicio.
 - Para el 2020 el 70% de las ventas sean por lo canales digitales.
 - Diseñar una cultura para que el cliente intuya todas las operaciones que se pueden hacer por el aplicativo.
 
-## Los Objetivos Iniciales del aplicativo son:
-
+### Los Objetivos Iniciales del aplicativo son:
 - Manejar el rango de usuarios de edades entre 20 años a 55 años.
 - Separar por categorías las acciones mas populares en los usuarios.
 - Reflejar una relación apegada a la filosofia "banco - persona", no "banco - cuenta"
 - Optimizar los pasos de las funcionalidades para hacerlas mas simples y eficaces.
 - Tener un aplicativo adaptado al cliente, darle una interface con la que sienta confianza.
 
-# EL RETO
+## EL RETO
 Nuestro objetivo para el proyecto era hacer la aplicación mas simple, las personas ahora esta acostumbradas a hacerlo todo mas rápido y en la comodidad de sus casas, oficnas, autos, etc. La premisa original era simple: tocar un boton y hacer una transacción.
 
-## Nuestros objetivos eran:
+### Nuestros objetivos eran:
 1. Que las personas hagan sus operaciones con rapidez y facilidad.
 2. Brindar a los usuarios mas control sobre su tiempo y dinero.
 
-## Mi papel
+### Mi papel
 Formé parte de un equipo 3 diseñadoras de experiencia de usuario con Jenny Chavez y Fiorella Alvitez.
 Participé en la etapa del research en cuanto a entrevistas, análisis de la data obtenida y correcciones UI.
 
-### KICK OFF
+## KICK OFF
 
-#### Entrevistas con usuarios potenciales
-Probamos la aplicación Banqui existente con 8 participantes. Utilizamos [esta guía de entrevista](https://docs.google.com/document/d/1OmjpdxVTyTIAluoZLuodgpXPq4UolTCOOb1Iwq7s2Xw/edit?usp=sharing);nuestro objetivo era comprender que transacciones realizan con mayor periodicidad, que operaciones se les hacen mas complicadas de realizar, que les gustaria encontrar en una aplicación nueva, por que utilizan una app en vez de ir al banco, por que prefieren ciertos bancos en cuanto a la aplicación.
+### Entrevistas con usuarios potenciales
 
-Con la información obtenida en las entrevistas, realizamos un [affinity map](https://miro.com/app/board/o9J_kwth0Do=/), donde plasmamos todo los pensamientos, comentarios y posturas de los entrevistados en primera persona para no perder el foco a analizar la información.
+Probamos la aplicación Banqui existente con 5 participantes, para saber en estado actual de la aplicación y cuales eras sus falencias. Despues entrevistamos a 8 personas, utilizamos [esta guía de entrevista](https://docs.google.com/document/d/1OmjpdxVTyTIAluoZLuodgpXPq4UolTCOOb1Iwq7s2Xw/edit?usp=sharing); nuestro objetivo era comprender que transacciones realizan con mayor periodicidad, que operaciones se les hacen mas complicadas de realizar, que les gustaria encontrar en una aplicación nueva, por que utilizan una app en vez de ir al banco, por que prefieren ciertos bancos en cuanto a la aplicación.
 
-También realizamos benchmark con aplicaciones similares extranjeras 
+Realizamos benchmark con aplicaciones similares 
+
+![Benchmark de aplicaciones bancarias](https://i.ibb.co/qRx03hj/benchmark.png)
+
+
+Con la información obtenida en las entrevistas, realizamos un [affinity map](https://miro.com/app/board/o9J_kwth0Do=/), donde plasmamos todo los pensamientos, comentarios y posturas de los entrevistados en primera persona para no perder el foco al analizar la información.
+
+Construimos dos user persona, con caracteristicas diferentes, una [mujer](https://i.ibb.co/4R8p82r/user-persona1.png) y un [varon](https://i.ibb.co/M8Y8SNq/user-persona2.png)
+
+![user's persona](https://i.ibb.co/Dk8LtPQ/personas.png)
+
 
 
 ### Problemas encontrados tanto a nivel de negocio:
