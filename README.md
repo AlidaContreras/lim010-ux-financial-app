@@ -117,7 +117,7 @@ Para los cambios y desarrollos nuevos se realizo un prototipo de alta fidelidad 
 
 ### Carpeta de drive
 
-Para poder ver el proceso de research y diseño puedes ingresar a [esta carpeta](https://drive.google.com/drive/folders/101WzvSmeVsqzmFZGnYo23UDAnjxfpqua?usp=sharing) de drive y encontraras
+Para poder ver el proceso de research y diseño puedes ingresar a [esta carpeta](https://drive.google.com/drive/folders/101WzvSmeVsqzmFZGnYo23UDAnjxfpqua?usp=sharing) de drive y encontraras o a [este link](https://www.figma.com/file/yZ05nkaco0oZ54ulskvWMT/App-Banqui?node-id=1%3A13) para ver el prototipo en Figma
 - Guia de entrevista a el product owner
 - Definición de los user persona
 - Videos de test de usuarios en estado actual de aplicación.
