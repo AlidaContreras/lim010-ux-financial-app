@@ -48,13 +48,13 @@ Construimos dos user persona, con caracteristicas diferentes, de edades diferent
 <img src="https://i.ibb.co/Dk8LtPQ/personas.png" width="800">
 </p>
 
-Al analizar la información, hicimos un customer journey map, donde visualizamos como se siente el usuario en la operación de pago de servicio
+Al analizar la información, hicimos un customer journey map, donde visualizamos como se siente el usuario en la operación de pago de servicio.
 
 <p align="center">
 <img src="https://i.ibb.co/Rj0y66N/CJM.png" width="800">
 </p>
 
-Posteriormente utilizamos la técnica de los problem statemt's, what if e hicimos una lista de caracteristicas, detallamos en [este documento](https://docs.google.com/document/d/1bgjaGmfWCyPsI1oZZp_itHyLqiwgAeV3g2qI9-4zw3E/edit?usp=sharing)
+Posteriormente utilizamos la técnica de los problem statemt's, what if e hicimos una lista de caracteristicas que detallamos en [este documento](https://docs.google.com/document/d/1bgjaGmfWCyPsI1oZZp_itHyLqiwgAeV3g2qI9-4zw3E/edit?usp=sharing).
 
 Despues de toda la información recolectada y analizada identificamos "problemas":
 
@@ -107,6 +107,13 @@ Despues de toda la información recolectada y analizada identificamos "problemas
 
 Para los cambios y desarrollos nuevos se realizo un prototipo de alta fidelidad en la herramienta de "invision".
 [Aqui](https://dahlia.invisionapp.com/public/share/ERWTRVGA4#/screens/474152308) se va a poder visualizar el flujo de las funciones recomendadas.
+
+<a href="https://dahlia.invisionapp.com/public/share/ERWTRVGA4#/screens/474152308">
+<p align="center">
+	<img src="https://i.ibb.co/3YMzBp6/mvp.png" width="200">
+</p>
+</a>	
+
 
 ### Carpeta de drive
 
