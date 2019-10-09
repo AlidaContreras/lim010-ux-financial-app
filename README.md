@@ -34,26 +34,37 @@ Participé en la etapa del research en cuanto a entrevistas, análisis de la dat
 
 Probamos la aplicación Banqui existente con 5 participantes, para saber en estado actual de la aplicación y cuales eras sus falencias. Despues entrevistamos a 8 personas, utilizamos [esta guía de entrevista](https://docs.google.com/document/d/1OmjpdxVTyTIAluoZLuodgpXPq4UolTCOOb1Iwq7s2Xw/edit?usp=sharing); nuestro objetivo era comprender que transacciones realizan con mayor periodicidad, que operaciones se les hacen mas complicadas de realizar, que les gustaria encontrar en una aplicación nueva, por que utilizan una app en vez de ir al banco, por que prefieren ciertos bancos en cuanto a la aplicación.
 
-Realizamos benchmark con aplicaciones similares 
+Realizamos benchmark con aplicaciones similares
 
-![Benchmark de aplicaciones bancarias](https://i.ibb.co/qRx03hj/benchmark.png)
-
+<p align="center">
+<img src="https://i.ibb.co/tzbJC91/benchmark.png" width="800">
+</p>
 
 Con la información obtenida en las entrevistas, realizamos un [affinity map](https://miro.com/app/board/o9J_kwth0Do=/), donde plasmamos todo los pensamientos, comentarios y posturas de los entrevistados en primera persona para no perder el foco al analizar la información.
 
-Construimos dos user persona, con caracteristicas diferentes, una [mujer](https://i.ibb.co/4R8p82r/user-persona1.png) y un [varon](https://i.ibb.co/M8Y8SNq/user-persona2.png)
+Construimos dos user persona, con caracteristicas diferentes, de edades diferentes, una [mujer](https://i.ibb.co/4R8p82r/user-persona1.png) y un [varon](https://i.ibb.co/M8Y8SNq/user-persona2.png)
 
-![user's persona](https://i.ibb.co/Dk8LtPQ/personas.png)
+<p align="center">
+<img src="https://i.ibb.co/Dk8LtPQ/personas.png" width="800">
+</p>
 
+Al analizar la información, hicimos un customer journey map, donde visualizamos como se siente el usuario en la operación de pago de servicio
 
+<p align="center">
+<img src="https://i.ibb.co/Rj0y66N/CJM.png" width="800">
+</p>
 
-### Problemas encontrados tanto a nivel de negocio:
+Posteriormente utilizamos la técnica de los problem statemt's, what if e hicimos una lista de caracteristicas, detallamos en [este documento](https://docs.google.com/document/d/1bgjaGmfWCyPsI1oZZp_itHyLqiwgAeV3g2qI9-4zw3E/edit?usp=sharing)
+
+Despues de toda la información recolectada y analizada identificamos "problemas":
+
+#### Problemas encontrados tanto a nivel de negocio:
 
 - Tanto en las entrevistas como en el testeo que se identificó que algunos flujos de las operaciones no eran eficientes. 
 - Al usuario no le gusta ir a otra aplicacion para ver el numero de recibo de los servicios que va a pagar.
 - El usuario desea realizar transferencias de manera facil, sin necesidad de saber los 11 digitos de una cuenta.
 
-### Problemas encontrados tanto a nivel de usuario:
+#### Problemas encontrados tanto a nivel de usuario:
 
 - Habia información que estaba en la vista principal, que no es relevante para el usuario.
 - Cuando el usuario hacia un pago se quedaba en duda de si se realizó o no, no tenia una confirmacion del pago.
@@ -62,7 +73,7 @@ Construimos dos user persona, con caracteristicas diferentes, una [mujer](https:
 
 ## Recomendaciones de próximos pasos para el banco con respecto al app
 
-### General
+#### General
 
 - Agregar el tipo de monera en los monton mostrados.
 - Volver a clasificar las operaciones por categorias y hacerlas denotar mas(separar las transacciones de pago y transferencias)
@@ -72,32 +83,32 @@ Construimos dos user persona, con caracteristicas diferentes, una [mujer](https:
 - Agregar un menú hamburguesa en la parte superior derecha para que pueda entrar a editar su perfil, cerrar sesion, configuraciones.
 - Disminuir pasos innecesarios de algunas operaciones en la aplicación
 
-### Inicio
+#### Inicio
 
 - Agregar la foto del usuario en la parte superior derecha para que el usuario se sienta identificado con la cuenta.
 - Mostrar el color de la tarjeta para que el usuario identifique a cual de sus tarjetas se esta haciendo referencia, en caso de que tenga varias tarejtas.
 - Mostrar número de cuenta y el codigo de cuenta interbancario en la vista principal, ya que es información relevante para el usuario, debajo mostrar el saldo disponible que tiene.
 
-### Ahorros
+#### Ahorros
 
 - Mostar antes de finalizar la operacion, los detalles finales.
 
-### Pago
+#### Pago
 
 - Se recomienda mostrar una vista de confirmacion al finalizar la transacción.
 - Se recomienda que el pago servicios de telefonia se haga con el número de celular y no con el numero de recibo.
 
-### Transferencia
+#### Transferencia
 
 - Se recomienda que la transferencia tambien se pueda hacer a contactos de celular que hayan vinculado su número de cuenta con el numero de celular anteriormente.
 - Se recomienda mostrar una vista de confirmacion al finalizar la transacción.
 
-## Prototipo de alta fidelidad
+### Prototipo de alta fidelidad
 
 Para los cambios y desarrollos nuevos se realizo un prototipo de alta fidelidad en la herramienta de "invision".
 [Aqui](https://dahlia.invisionapp.com/public/share/ERWTRVGA4#/screens/474152308) se va a poder visualizar el flujo de las funciones recomendadas.
 
-## Carpeta de drive
+### Carpeta de drive
 
 Para poder ver el proceso de research y diseño puedes ingresar a [esta carpeta](https://drive.google.com/drive/folders/101WzvSmeVsqzmFZGnYo23UDAnjxfpqua?usp=sharing) de drive y encontraras
 - Guia de entrevista a el product owner
