@@ -51,7 +51,7 @@ Construimos dos user persona, con caracteristicas diferentes, de edades diferent
 Al analizar la información, hicimos un customer journey map, donde visualizamos como se siente el usuario en la operación de pago de servicio.
 
 <p align="center">
-<img src="https://i.ibb.co/Rj0y66N/CJM.png" width="800">
+<img src="https://i.ibb.co/Rj0y66N/CJM.png" width="900">
 </p>
 
 Posteriormente utilizamos la técnica de los problem statemt's, what if e hicimos una lista de caracteristicas que detallamos en [este documento](https://docs.google.com/document/d/1bgjaGmfWCyPsI1oZZp_itHyLqiwgAeV3g2qI9-4zw3E/edit?usp=sharing).
