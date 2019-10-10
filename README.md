@@ -2,7 +2,7 @@
 Un banco del país, siguiendo las tendencias de otros países, está planeando lanzar un banco 100% digital bajo otro nombre: "Banqui". Su principal objetivo es tener un banco que sea más cercano a las necesidades del público más joven del país. Para ello han venido piloteando [un app](https://marvelapp.com/1hj56576/screen/60926857) con un número pequeño de usuarios. Los resultados de este piloto son mixtos, hay algunas cosas que han sido bien recibidas por los usuarios, y hay otras que se tienen que mejorar aún.
 
 <p align="center">
-<img src="https://i.ibb.co/dWzmSmV/Banqui-Inicio.png" width="800">
+<img src="imagenes/Banqui-Inicio.png" width="800">
 </p>
 
 ### Los Objetivos Iniciales de la empresa son:
@@ -37,21 +37,21 @@ Probamos la aplicación Banqui existente con 5 participantes, para saber en esta
 Realizamos benchmark con aplicaciones similares
 
 <p align="center">
-<img src="https://i.ibb.co/tzbJC91/benchmark.png" width="800">
+<img src="imagenes/benchmark.png" width="800">
 </p>
 
 Con la información obtenida en las entrevistas, realizamos un [affinity map](https://miro.com/app/board/o9J_kwth0Do=/), donde plasmamos todo los pensamientos, comentarios y posturas de los entrevistados en primera persona para no perder el foco al analizar la información.
 
-Construimos dos user persona, con caracteristicas diferentes, de edades diferentes, una [mujer](https://i.ibb.co/4R8p82r/user-persona1.png) y un [varon](https://i.ibb.co/M8Y8SNq/user-persona2.png)
+Construimos dos user persona, con caracteristicas diferentes, de edades diferentes, una [mujer](imagenes/user-persona1.png) y un [varon](imagenes/user-persona2.png)
 
 <p align="center">
-<img src="https://i.ibb.co/Dk8LtPQ/personas.png" width="800">
+<img src="imagenes/personas.png" width="800">
 </p>
 
 Al analizar la información, hicimos un customer journey map, donde visualizamos como se siente el usuario en la operación de pago de servicio.
 
 <p align="center">
-<img src="https://i.ibb.co/Rj0y66N/CJM.png" width="900">
+<img src="imagenes/CJM.png" width="900">
 </p>
 
 Posteriormente utilizamos la técnica de los problem statemt's, what if e hicimos una lista de caracteristicas que detallamos en [este documento](https://docs.google.com/document/d/1bgjaGmfWCyPsI1oZZp_itHyLqiwgAeV3g2qI9-4zw3E/edit?usp=sharing).
@@ -110,7 +110,7 @@ Para los cambios y desarrollos nuevos se realizo un prototipo de alta fidelidad 
 
 <a href="https://dahlia.invisionapp.com/public/share/ERWTRVGA4#/screens/474152308">
 <p align="center">
-	<img src="https://i.ibb.co/3YMzBp6/mvp.png" width="200">
+	<img src="imagenes/mvp.png" width="200">
 </p>
 </a>	
 
